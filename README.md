@@ -1,2 +1,2 @@
-# blogimages
-博客图床
+#博客图片
+用于存储放markdown的使用笔记本的图片
